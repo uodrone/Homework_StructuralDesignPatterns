@@ -1,6 +1,6 @@
-﻿using Homework_StructuralDesignPatterns.Cars;
-using Homework_StructuralDesignPatterns.Interfaces;
-using Homework_StructuralDesignPatterns.Motorcycles;
+﻿using Homework_StructuralDesignPatterns.Interfaces;
+using Homework_StructuralDesignPatterns.Models.Cars;
+using Homework_StructuralDesignPatterns.Models.Motorcycles;
 using System;
 using System.Collections.Generic;
 using System.Linq;

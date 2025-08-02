@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_StructuralDesignPatterns.Cars
+namespace Homework_StructuralDesignPatterns.Models.Cars
 {
     /// <summary>
     /// Класс автомобиля, наследуется от Vehicle

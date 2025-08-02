@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_StructuralDesignPatterns.Motorcycles
+namespace Homework_StructuralDesignPatterns.Models.Motorcycles
 {
     /// <summary>
     /// Класс спортивного мотоцикла, наследуется от Motorcycle
